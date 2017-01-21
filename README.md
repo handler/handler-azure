@@ -1,1 +1,1 @@
-# handlerjs/handler-azure
+# handler-azure
